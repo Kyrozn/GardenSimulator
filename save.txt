@@ -1,0 +1,59 @@
+{
+    "plants": {
+        "1": {
+            "type": "Tomato",
+            "waterRequired": [
+                0.5,
+                1
+            ],
+            "fertilizerRequired": [
+                15,
+                50
+            ],
+            "lightRequired": [
+                7000,
+                1000
+            ],
+            "growSpeed": 10,
+            "myWatering": 0,
+            "myfertilizer": 0,
+            "mygrow": 0,
+            "Life": 100,
+            "NextCut": 10,
+            "status": "Seed",
+            "ishide": false,
+            "icon": "🫘"
+        },
+        "2": {
+            "type": "Apple",
+            "waterRequired": [
+                3,
+                4
+            ],
+            "fertilizerRequired": [
+                800,
+                1200
+            ],
+            "lightRequired": [
+                7000,
+                1000
+            ],
+            "growSpeed": 20,
+            "myWatering": 0,
+            "myfertilizer": 0,
+            "mygrow": 0,
+            "Life": 100,
+            "NextCut": 20,
+            "status": "Seed",
+            "ishide": false,
+            "icon": "🫘"
+        },
+        "3": null
+    },
+    "event": "UB",
+    "day": 1,
+    "IsNewGame": false,
+    "MyWater": 9.0,
+    "MyFertilizer": 950.0,
+    "light": 3435
+}
