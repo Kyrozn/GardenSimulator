@@ -29,7 +29,7 @@
 - 📄 **main.py** : Fichier principal du jeu (lancement, sauvegarde, gestion générale).
 - 📄 **garden.py** : Gestion de la partie dans son état général et des événements aléatoires.
 - 📄 **plant.py** : Définition des plantes et de leur cycle de vie.
-- 📄 **save.txt** : fichiers contenant la sauvegarde de la partie.
+- 📄 **save.txt** : fichiers contenant la sauvegarde de la partie. (forme json)
 - 📄 **requirements.txt** : Liste des dépendances nécessaires pour exécuter le projet.
 
 ## 🚀 Installation et exécution
